@@ -106,11 +106,11 @@ console.log("The given number is pallindrom?"+result)
 
 
 
-let n=5;
-for(i=1; i<=n; i++){
+let num=5;
+for(i=1; i<=num; i++){
     let row=""
-  for(j=1; j<=n; j++){
-    if(i==1 || i==n){
+  for(j=1; j<=num; j++){
+    if(i==1 || i==num){
        row+="* "
     }
     else {

@@ -5,8 +5,8 @@
 //  }
  
 
-//  var pattern=''
+//  var row=''
 //  for(i=0; i<10; i++){
-//     pattern+="*"
+//     row+="*"
 //  }
-//  console.log(pattern)
+//  console.log(row)
